@@ -14,7 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'Hi, I''m noah'
-    subtitle: Hi! My name is Noah Smelcer.
+    subtitle: >-
+      Hi! My name is Noah Smelcer. I take photos and create wallpapers for fun
+      (: Scroll down for info about me!
     styles:
       self:
         height: auto
